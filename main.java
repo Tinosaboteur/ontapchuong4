@@ -1,10 +1,9 @@
-package baitapcode;
+package code;
 
 public class main {
     public static void main(String[] args) {
-        camcaophong camcaophong1 = new camcaophong();
-        camsanh camsanh1 = new camsanh();
-        quatao quatao1 = new quatao();
-    
+        circle circle1 = new circle();
+        rectangle rectangle1 = new rectangle();
+        square square1 = new square();
     }
 }
